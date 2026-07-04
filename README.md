@@ -111,6 +111,17 @@ salary_analysis.ipynb
 
 ---
 
+## Results
+
+The analysis found that salaries increase consistently with professional experience, with Executive-level professionals earning the highest average compensation. The project also identified trends across company sizes, remote work, and job roles, and used a Linear Regression model to predict salaries based on job-related features.
+
+*Example visualization:*
+
+<img width="951" height="569" alt="image" src="https://github.com/user-attachments/assets/4aebe9aa-bbaa-4e5b-af13-34549004613c" />
+
+
+---
+
 ## Future Improvements
 
 - Include more recent salary data.
